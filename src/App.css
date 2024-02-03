@@ -1,0 +1,13 @@
+/*& TodoItems  */
+.kg-row{
+  margin: 10px 5px;
+}
+
+/* More than one place */
+.item-container{
+  text-align: left;
+}
+
+.kg-button{
+  min-width: 80px;
+}
